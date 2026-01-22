@@ -1,0 +1,5 @@
+{
+  "name": "Math 10 Entrance Exam Generator",
+  "description": "AI-powered Grade 10 Math Entrance Exam generator based on specific curriculum matrix. Features 50 questions, timer, auto-grading, detailed solutions with multiple methods, and geometry visualization.",
+  "requestFramePermissions": []
+}
